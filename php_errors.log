@@ -1,0 +1,20 @@
+[15-May-2017 05:51:10 UTC] PHP Fatal error:  Class 'app\localinfo' not found in /home/ubuntu/workspace/laravel/app/Http/Controllers/LocalinfoController.php on line 44
+[15-May-2017 05:52:44 UTC] PHP Fatal error:  Class 'App\Http\Controllers\localinfos' not found in /home/ubuntu/workspace/laravel/app/Http/Controllers/LocalinfoController.php on line 44
+[15-May-2017 06:18:56 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/ubuntu/workspace/laravel/app/Http/Controllers/LocalinfoController.php on line 18
+[15-May-2017 06:19:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/ubuntu/workspace/laravel/app/Http/Controllers/LocalinfoController.php on line 18
+[15-May-2017 06:20:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/ubuntu/workspace/laravel/app/Http/Controllers/LocalinfoController.php on line 18
+[15-May-2017 06:24:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ubuntu/workspace/laravel/storage/framework/views/e071fa2529b135f6d7f85fbc2d3330e1044e4285.php on line 25
+[15-May-2017 06:25:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ubuntu/workspace/laravel/storage/framework/views/e071fa2529b135f6d7f85fbc2d3330e1044e4285.php on line 25
+[15-May-2017 06:25:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/laravel/storage/framework/views/e071fa2529b135f6d7f85fbc2d3330e1044e4285.php on line 24
+[15-May-2017 06:27:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ubuntu/workspace/laravel/storage/framework/views/e071fa2529b135f6d7f85fbc2d3330e1044e4285.php on line 25
+[17-May-2017 10:34:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/laravel/routes/web.php on line 28
+[17-May-2017 11:11:36 UTC] PHP Fatal error:  Can't use method return value in write context in /home/ubuntu/workspace/laravel/app/Http/Controllers/LocalinfoController.php on line 71
+[17-May-2017 11:18:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/laravel/routes/web.php on line 27
+[17-May-2017 11:19:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/laravel/routes/web.php on line 27
+[17-May-2017 12:41:18 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/laravel/routes/web.php on line 27
+[18-May-2017 11:12:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/laravel/storage/framework/views/460183bbb70151b4f2d22f595d1b6ecf0ed45ef5.php on line 29
+[18-May-2017 12:03:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/laravel/storage/framework/views/460183bbb70151b4f2d22f595d1b6ecf0ed45ef5.php on line 29
+[18-May-2017 12:58:52 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/laravel/storage/framework/views/460183bbb70151b4f2d22f595d1b6ecf0ed45ef5.php on line 30
+[20-May-2017 08:12:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Product' not found in /home/ubuntu/workspace/laravel/app/Http/Controllers/UploadController.php on line 15
+[20-May-2017 08:13:02 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ProductsPhoto' not found in /home/ubuntu/workspace/laravel/app/Http/Controllers/UploadController.php on line 19
+[20-May-2017 08:13:11 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ProductsPhoto' not found in /home/ubuntu/workspace/laravel/app/Http/Controllers/UploadController.php on line 19
